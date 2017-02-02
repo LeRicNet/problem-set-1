@@ -1,8 +1,8 @@
 #! /usr/bin/env bash
 
-# Problem set 1 for Molecular Biology 7621
-# Eric Prince
-# Jan 30 2017
+# Assignment: Problem set 1 for Molecular Biology 7621
+# Author: Eric Prince
+# Date: Jan 30 2017
 
 datasets='/Users/ericprince/Desktop/MOLB7621/data-sets'
 
